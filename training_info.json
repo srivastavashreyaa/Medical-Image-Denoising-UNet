@@ -1,0 +1,16 @@
+{
+  "dataset": "COVID-19 chest X-ray/CT image collection (ieee8023): frontal X-ray + CT slices",
+  "img_size": 128,
+  "base_filters": 16,
+  "source_images": 835,
+  "train_pairs": 1420,
+  "val_pairs": 250,
+  "epochs_run": 5,
+  "batch_size": 16,
+  "trained_on": "2026-10-31",
+  "psnr_noisy": 21.800589463126467,
+  "psnr_denoised": 27.856299835876584,
+  "ssim_noisy": 0.6173249708988291,
+  "ssim_denoised": 0.8500827061607116,
+  "mse_reduction_pct": 75.69146339364241
+}
